@@ -1,2 +1,2 @@
 # Path-Loss-Data-for-Fifth-Generation-of-Wireless-Communications-in-Indoors
-Datasets of path loss derived from a campaign of field measurements conducted in three indoor environments.
+The path loss refers to the attenuation that wireless signals experiment between pairs of transmitter-receiver and is the basic parameter of performance of wireless communications. In this study, we reported different datasets of path loss derived from a campaign of field measurements conducted in three indoor environments. The operational frequency used in this campaign was 3.5 GHz, which is one of the frequency bands of interest for the fifth generation of wireless communications and beyond.
